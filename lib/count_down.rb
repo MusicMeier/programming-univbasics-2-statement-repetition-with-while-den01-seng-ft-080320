@@ -7,4 +7,4 @@ while count >= 1 do
   count -= 1
   
 end
-puts clelbration_phrase
+puts celebration_phrase
